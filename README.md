@@ -683,6 +683,8 @@ API | Description | Auth | HTTPS | CORS |
 | 🌎 [Guerrilla Mail](www.guerrillamail.com/GuerrillaMailAPI.html) | Disposable temporary Email addresses | No | Yes | Unknown |
 | 🌎 [ImprovMX](improvmx.com/api) | API for free email forwarding service | `apiKey` | Yes | Unknown |
 | 🌎 [Kickbox](open.kickbox.com/) | Email verification API | No | Yes | Yes |
+| 🌎 [Kiprio Disposable Email](kiprio.com/v1/disposable-email/) | Check if an email domain is disposable or temporary | No | Yes | Yes |
+| 🌎 [Kiprio Email Validate](kiprio.com/v1/email-validate/) | Validate email with MX record checks, disposable detection, and typo suggestions | No | Yes | Yes |
 | 🌎 [mail.gw](docs.mail.gw) | 10 Minute Mail | No | Yes | Yes |
 | 🌎 [mail.tm](docs.mail.tm) | Temporary Email Service | No | Yes | Yes |
 | 🌎 [MailboxValidator](www.mailboxvalidator.com/api-email-free) | Validate email address to improve deliverability | `apiKey` | Yes | Unknown |
@@ -1527,6 +1529,7 @@ API | Description | Auth | HTTPS | CORS |
 | 🌎 [HaveIBeenPwned](haveibeenpwned.com/API/v3) | Passwords which have previously been exposed in data breaches | `apiKey` | Yes | Unknown |
 | <b><code>&nbsp;&nbsp;&nbsp;520⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;122🍴</code></b> [Intelligence X](https://github.com/IntelligenceX/SDK/blob/master/Intelligence%20X%20API.pdf)) | Perform OSINT via Intelligence X | `apiKey` | Yes | Unknown |
 | 🌎 [IPLogs](iplogs.com/docs) | Free VPN, proxy, Tor and datacenter IP detection. 13 sources, active probing. | No | Yes | Yes |
+| 🌎 [Kiprio Cert](kiprio.com/v1/cert/) | Inspect SSL/TLS certificates including expiry, issuer, and chain details for any domain | No | Yes | Yes |
 | 🌎 [LoginRadius](www.loginradius.com/docs/) | Managed User Authentication Service | `apiKey` | Yes | Yes |
 | 🌎 [Microsoft Security Response Center (MSRC)](msrc.microsoft.com/report/developer) | Programmatic interfaces to engage with the Microsoft Security Response Center (MSRC) | No | Yes | Unknown |
 | <b><code>&nbsp;&nbsp;1851⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;163🍴</code></b> [Mozilla http scanner](https://github.com/mozilla/http-observatory/blob/master/httpobs/docs/api.md)) | Mozilla observatory http scanner | No | Yes | Unknown |
