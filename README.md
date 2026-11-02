@@ -927,6 +927,7 @@ API | Description | Auth | HTTPS | CORS |
 | 🌎 [ClickUp](clickup.com/api) | ClickUp is a robust, cloud-based project management tool for boosting productivity | `OAuth` | Yes | Unknown |
 | 🌎 [Clockify](clockify.me/developers-api ) | Clockify's REST-based API can be used to push/pull data to/from it & integrate it with other systems | `apiKey` | Yes | Unknown |
 | 🌎 [CloudConvert](cloudconvert.com/api/v2) | Online file converter for audio, video, document, ebook, archive, image, spreadsheet, presentation | `apiKey` | Yes | Unknown |
+| 🌎 [KaijuConverter](https://kaijuconverter.com/api-docs) | Convert 201+ file formats (HEIC, PDF, DOCX, CSV, ODS, RAW, CAD, MP4, MP3), 54 Studio tools & MCP Server | `apiKey` | Yes | Yes |
 | 🌎 [Cloudmersive Document and Data Conversion](cloudmersive.com/convert-api) | HTML/URL to PDF/PNG, Office documents to PDF, image conversion | `apiKey` | Yes | Yes |
 | 🌎 [Code::Stats](codestats.net/api-docs) | Automatic time tracking for programmers | `apiKey` | Yes | No |
 | 🌎 [Convert Online](convert.online/api-docs) | Online file converter for image, video, audio, document, ebook, font, archive and CAD formats | `apiKey` | Yes | No |
