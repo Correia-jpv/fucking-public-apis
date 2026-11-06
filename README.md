@@ -386,6 +386,7 @@ API | Description | Auth | HTTPS | CORS |
 | 🌎 [Compabase](compabase.com/docs/) | Polish company data: 3M+ KRS and CEIDG entities with financial statements, people and rankings | `apiKey` | Yes | Unknown |
 | 🌎 [Company Enrichment](dataandapis.com/apis/companies) | Domain, URL or email to company name, industry, size, HQ, tickers and socials, 125k companies | `apiKey` | Yes | No |
 | 🌎 [Crustdata](docs.crustdata.com) | People and company data covering profiles, headcount, funding and contacts | `apiKey` | Yes | Unknown |
+| 🌎 [Datacircle](api.datacircle.dev/v1) | Find the best GTM APIs: list every API, see who is best for each and search every plan | No | Yes | Yes |
 | 🌎 [Domainsdb.info](domainsdb.info/) | Registered Domain Names Search | No | Yes | No |
 | 🌎 [EuroValidate](eurovalidate.com) | EU VAT (VIES), IBAN and EORI validation with company name & address lookup | `apiKey` | Yes | Yes |
 | 🌎 [Firmbase](firmbase.be/en/api/docs) | Belgian company register (KBO/CBE), Official Gazette notices and VAT validation | `apiKey` | Yes | Yes |
