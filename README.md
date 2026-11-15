@@ -61,7 +61,8 @@ Join our 🌎 [Discord server](discord.com/invite/hgjA78638n/?utm_source=Github&
 | Name | Description | Auth | Transport | Install |
 |:---|:---|:---|:---|:---|
 | 🌎 [IPstack MCP](ipstack.com/mcp) | IP geolocation, threat and timezone lookups for agents | `apiKey` | `stdio`, `HTTP` | 🌎 [Cursor](cursor.directory/plugins/apilayer-mcp-adapter) · 🌎 [Glama](glama.ai/mcp/connectors/com.apilayer.mcp/apilayer-mcp-adapter) |
-| 🌎 [Agent Nexus](agentnexus.app) | Find agent-callable APIs, MCP servers and CLIs by capability, with live health and uptime data | No | `HTTP` | 🌎 [Glama](glama.ai/mcp/servers/agent-nexus) |
+| 🌎 [Agent Nexus](agentnexus.app)
+| 🌎 [No Stairs Please](nostairsplease.com/mcp) | Independent live-music venues, capacities, and booking contacts across all 50 US states, DC, and BC | `OAuth` | `HTTP` | 🌎 [Directory](nostairsplease.com/venues) | | Find agent-callable APIs, MCP servers and CLIs by capability, with live health and uptime data | No | `HTTP` | 🌎 [Glama](glama.ai/mcp/servers/agent-nexus) |
 | <b><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0🍴</code></b> [BlockVectra](https://github.com/blockvectra/mcp)) | Blockchain RPC and indexed data; keyless documentation and chain discovery | `apiKey` | `stdio`, `HTTP` | – |
 | 🌎 [CartViral](cartviral.com/mcp) | AI product videos, photos and ads for e-commerce from a product link or photos | `OAuth` | `HTTP` | 🌎 [Glama](glama.ai/mcp/connectors/com.cartviral/cartviral) · 🌎 [MCP Registry](registry.modelcontextprotocol.io/v0/servers?search=com.cartviral/cartviral) |
 | <b><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0🍴</code></b> [Catastro GPS](https://github.com/TheHiddenPandaDev/catastro_gps_mcp)) | Cadastral parcels in 29 European countries by reference, point or address | `apiKey` | `stdio` | 🌎 [Glama](glama.ai/mcp/servers/TheHiddenPandaDev/catastro_gps_mcp) |
